@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidstudio-AsyncTask-20</string>
+    <string name="Hw20_title">AsyncTask </string>
+    <string name="Hw20_Loading">Loading</string>
+</resources>
